@@ -20,6 +20,7 @@ The Power BI dashboard was developed to provide real-time, interactive insights 
 🔁 Customer Satisfaction – Return and cancellation rate analysis
 
 The dashboard enables business stakeholders to filter data by date, state, category, and fulfillment type, supporting data-driven decision-making.
+Dataset : - https://www.kaggle.com/datasets/thedevastator/unlock-profits-with-e-commerce-sales-data
 
 The objective is to optimize:
 - Financial performance
