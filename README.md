@@ -159,5 +159,11 @@ If you would like to collaborate or discuss the project, feel free to connect!
 ---
 output : 
 
+<img width="2002" height="1132" alt="Image" src="https://github.com/user-attachments/assets/f67b0351-756c-43b4-8969-72af2b29c40d" />
+<img width="2016" height="1132" alt="Image" src="https://github.com/user-attachments/assets/53586e48-e12c-460c-9847-630424a4e2b7" />
+<img width="2012" height="1126" alt="Image" src="https://github.com/user-attachments/assets/8ac8be32-6831-4fcd-9b61-809da43d38a2" />
+<img width="2016" height="1132" alt="Image" src="https://github.com/user-attachments/assets/a964826f-23dd-4762-8d9c-20b8d47d4b54" />
+<img width="2006" height="1134" alt="Image" src="https://github.com/user-attachments/assets/0063e713-28c5-4947-bc73-1f505786b9a6" />
+<img width="2006" height="1124" alt="Image" src="https://github.com/user-attachments/assets/358eb8a6-58cc-4ea7-a6e1-fa44f2a3dd54" />
 
 ⭐ If you found this project helpful, please give it a star!
